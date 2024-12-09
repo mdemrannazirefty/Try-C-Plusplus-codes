@@ -1,0 +1,4 @@
+﻿  assignment2.cpp.cpp
+C:\Efty\Try C++ Codes\assignment2.cpp\assignment2.cpp\assignment2.cpp.cpp(75,25): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Efty\Try C++ Codes\assignment2.cpp\assignment2.cpp\assignment2.cpp.cpp(75,20): warning C4309: 'argument': truncation of constant value
+  assignment2.cpp.vcxproj -> C:\Efty\Try C++ Codes\assignment2.cpp\x64\Debug\assignment2.cpp.exe

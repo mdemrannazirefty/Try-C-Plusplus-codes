@@ -1,0 +1,19 @@
+﻿  b6project.cpp.cpp
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(72,1): error C2563: mismatch in formal parameter list
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(76,1): error C2563: mismatch in formal parameter list
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(76,1): error C2568: '*': unable to resolve function overload
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(76,1): message : could be 'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(86,1): error C2181: illegal else without matching if
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(86,1): error C2563: mismatch in formal parameter list
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(86,44): error C2059: syntax error: ')'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(87,1): error C2143: syntax error: missing ';' before '{'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(92,1): error C2947: expecting '>' to terminate template-argument-list, found '<<'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(92): error C2062: type 'unknown-type' unexpected
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(93,49): error C2065: 'beforePrice': undeclared identifier
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(94,18): error C2065: 'beforePrice': undeclared identifier
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(99,3): error C2059: syntax error: 'else'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(100,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(110,2): error C2059: syntax error: '}'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(110,1): error C2143: syntax error: missing ';' before '}'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(114,1): error C2143: syntax error: missing ';' before '{'
+C:\Efty\Aiub\Try C++ Codes\b6project.cpp\b6project.cpp\b6project.cpp.cpp(114,1): error C2447: '{': missing function header (old-style formal list?)

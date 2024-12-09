@@ -1,0 +1,28 @@
+﻿  07,a,2022.cpp.cpp
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(66,2): error C2556: 'float Student::get(void)': overloaded function differs only by return type from 'int Student::get(void)'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(57,6): message : see declaration of 'Student::get'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(65,8): error C2371: 'Student::get': redefinition; different basic types
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(57,6): message : see declaration of 'Student::get'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(67,3): error C2059: syntax error: 'return'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(67,14): error C2238: unexpected token(s) preceding ';'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(69,1): error C2059: syntax error: '}'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(69,1): error C2143: syntax error: missing ';' before '}'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(71,19): error C2079: 'Student' uses undefined class 'Scholarship'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(71,27): error C2143: syntax error: missing ';' before ':'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(71,29): error C2059: syntax error: 'public'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(72,1): error C2143: syntax error: missing ';' before '{'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(72,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(96,23): warning C4584: 'Faculty': base-class 'Person' is already a base-class of 'Emplayee'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(4,7): message : see declaration of 'Person'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(20,7): message : see declaration of 'Emplayee'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(113,23): warning C4584: 'officer': base-class 'Person' is already a base-class of 'Emplayee'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(4,7): message : see declaration of 'Person'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(20,7): message : see declaration of 'Emplayee'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(130,18): warning C4584: 'ta': base-class 'Person' is already a base-class of 'Emplayee'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(4,7): message : see declaration of 'Person'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(20,7): message : see declaration of 'Emplayee'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(150,2): error C2065: 'student': undeclared identifier
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(150,10): error C2146: syntax error: missing ';' before identifier 'obj'
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(150,10): error C2065: 'obj': undeclared identifier
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(151,2): error C2065: 'obj': undeclared identifier
+C:\Efty\Try C++ Codes\07,a,2022.cpp\07,a,2022.cpp\07,a,2022.cpp.cpp(152,2): error C2065: 'obj': undeclared identifier

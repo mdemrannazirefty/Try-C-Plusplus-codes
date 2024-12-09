@@ -1,0 +1,5 @@
+﻿  pract3.cpp.cpp
+C:\Efty\Aiub\Try C++ Codes\pract3.cpp\pract3.cpp\pract3.cpp.cpp(13,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Efty\Aiub\Try C++ Codes\pract3.cpp\pract3.cpp\pract3.cpp.cpp(19,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Efty\Aiub\Try C++ Codes\pract3.cpp\pract3.cpp\pract3.cpp.cpp(25,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  pract3.cpp.vcxproj -> C:\Efty\Aiub\Try C++ Codes\pract3.cpp\x64\Debug\pract3.cpp.exe

@@ -1,0 +1,20 @@
+﻿  startfromzero.cpp
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(6,17): error C2672: 'std::max': no matching overloaded function found
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(6,33): error C2780: '_Ty std::max(std::initializer_list<_Elem>)': expects 1 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(51): message : see declaration of 'std::max'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(6,33): error C2780: '_Ty std::max(std::initializer_list<_Elem>,_Pr)': expects 2 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(48): message : see declaration of 'std::max'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(6,33): error C2780: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': expects 2 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(41): message : see declaration of 'std::max'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(6,33): error C2780: 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': expects 3 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(31): message : see declaration of 'std::max'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(7,17): error C2672: 'std::min': no matching overloaded function found
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(7,38): error C2780: '_Ty std::min(std::initializer_list<_Elem>)': expects 1 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(74): message : see declaration of 'std::min'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(7,38): error C2780: '_Ty std::min(std::initializer_list<_Elem>,_Pr)': expects 2 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(71): message : see declaration of 'std::min'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(7,38): error C2780: 'const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)': expects 2 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(64): message : see declaration of 'std::min'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(7,38): error C2780: 'const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': expects 3 arguments - 6 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\utility(54): message : see declaration of 'std::min'
+C:\Efty\Aiub\Try C++ Codes\startfromzero\startfromzero\startfromzero.cpp(8,22): error C2065: 'avg': undeclared identifier

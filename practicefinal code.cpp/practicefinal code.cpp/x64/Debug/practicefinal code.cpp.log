@@ -1,0 +1,4 @@
+﻿  practicefinal code.cpp.cpp
+C:\Efty\Aiub\Try C++ Codes\practicefinal code.cpp\practicefinal code.cpp\practicefinal code.cpp.cpp(75,20): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Efty\Aiub\Try C++ Codes\practicefinal code.cpp\practicefinal code.cpp\practicefinal code.cpp.cpp(75,15): warning C4309: 'argument': truncation of constant value
+  practicefinal code.cpp.vcxproj -> C:\Efty\Aiub\Try C++ Codes\practicefinal code.cpp\x64\Debug\practicefinal code.cpp.exe
